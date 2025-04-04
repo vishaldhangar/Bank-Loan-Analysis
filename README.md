@@ -79,7 +79,7 @@ MTD Amount Received
 Average Interest Rate
 
 Average DTI
-(B1.png)
+
 
 📈 Dashboard 2: Loan Trends & Demographic Insights
 This dashboard focuses on identifying trends, regional performance, borrower characteristics, and reasons behind loan applications using visualizations.
