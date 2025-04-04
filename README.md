@@ -5,41 +5,41 @@ This project presents a comprehensive analysis of bank loan data using Power BI.
 This dashboard gives a detailed view of the overall loan activity, borrower financial health, and classification of loans based on performance.
 
 🔹 Key Performance Indicators (KPIs):
-Total Loan Applications
+    -> Total Loan Applications
 
-Total count over a specified period.
+  -> Total count over a specified period.
 
-Month-to-Date (MTD) Loan Applications.
+-> Month-to-Date (MTD) Loan Applications.
 
-Month-over-Month (MoM) trend analysis.
+-> Month-over-Month (MoM) trend analysis.
 
-Total Funded Amount
+-> Total Funded Amount
 
-Total amount disbursed as loans.
+-> Total amount disbursed as loans.
 
 MTD Funded Amount.
 
-MoM analysis of funded disbursements.
+-> MoM analysis of funded disbursements.
 
-Total Amount Received
+ ->Total Amount Received
 
-Total repayments received.
+->Total repayments received.
 
-MTD Amount Received.
+-> MTD Amount Received.
 
-MoM change in repayments.
+-> MoM change in repayments.
 
-Average Interest Rate
+-> Average Interest Rate
 
-Overall average interest rate across loans.
+->Overall average interest rate across loans.
 
 MTD Interest Rate.
 
-MoM variation for trend analysis.
+->MoM variation for trend analysis.
 
-Average Debt-to-Income (DTI) Ratio
+->Average Debt-to-Income (DTI) Ratio
 
-Financial health of borrowers.
+->Financial health of borrowers.
 
 MTD Average DTI.
 
